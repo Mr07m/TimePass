@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    height: 500px;
+    width: 400px;
+    background-color: #e99292;
+    margin: 30px;
+    border-radius: 20px;
+}
+.cart{
+    height: 70%;
+    width: 70%;
+    background-color: #ec1515;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:57px;
+    border-radius: 20px;
+    
+}
